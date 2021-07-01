@@ -682,12 +682,16 @@ margin: 0px;
     
  }
     
+    .image-content {
+        padding: 20px 20px;
+    
     .image-content-head {
        font-size: 18px;
        padding: 0px;
        margin: 0px;
        line-height: 1.3;
         font-family: roboto;
+        padding-bottom: 15px;
     }
     
     .image-content-body {
